@@ -1,0 +1,1 @@
+$('#radio').on('dblclick');
