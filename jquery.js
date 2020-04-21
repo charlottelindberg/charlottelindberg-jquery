@@ -14,7 +14,7 @@ $("#insertfield").on("focus", function () {
         console.log("de input is: " + input);
         console.log("de lengte is: " + inputLengte);
 
-        $("submit.onclick");
+        $("#button");
         if (inputLengte >= 140) {
             alert("OK.");
         } else {
